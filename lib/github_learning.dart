@@ -9,6 +9,7 @@ class GitHubLearning extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Github learning'),
       ),
+      body: const Column(),
     );
   }
 }
